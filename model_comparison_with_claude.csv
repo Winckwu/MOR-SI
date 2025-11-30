@@ -1,0 +1,12 @@
+向量化,模型,一致数,一致率
+TF-IDF_char_2_4,LogisticRegression,835,98.47
+TF-IDF_char_2_4,LinearSVC,828,97.64
+TF-IDF_char_2_4,LogisticRegression_C10,828,97.64
+TF-IDF_char_2_4,SGD_hinge,828,97.64
+TF-IDF_char_2_4,GradientBoosting,828,97.64
+TF-IDF_char_2_4,RandomForest,827,97.52
+TF-IDF_char_2_4,RandomForest_200,827,97.52
+TF-IDF_char_2_4,LinearSVC_C0.1,825,97.29
+TF-IDF_char_2_4,SGD_log,825,97.29
+TF-IDF_char_2_4,MLP_256_128,818,96.46
+TF-IDF_char_2_4,LinearSVC_C10,817,96.34
